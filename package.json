@@ -1,0 +1,23 @@
+{
+  "name": "ai_agents",
+  "version": "1.0.0",
+  "description": "A hands-on project for learning and building **AI Agents with TypeScript and the OpenAI Agents SDK**.",
+  "homepage": "https://github.com/Babusaheb12/AI_Agents#readme",
+  "bugs": {
+    "url": "https://github.com/Babusaheb12/AI_Agents/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Babusaheb12/AI_Agents.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "dotenv": "^18.0.1"
+  }
+}
